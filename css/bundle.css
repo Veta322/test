@@ -359,7 +359,7 @@ b {
   content: "";
   width: 140%;
   height: 100%;
-  background: url(../img/animate_bg.png) no-repeat;
+  background: url(../img/animate_bg.webp) no-repeat;
   -webkit-background-size: contain;
   -moz-background-size: contain;
   -o-background-size: contain;
@@ -395,7 +395,7 @@ h2.title:after {
   margin: 15px 0 0;
   width: 62px;
   height: 5px;
-  background: url(../img/separator_red.png) center no-repeat;
+  background: url(../img/separator_red.webp) center no-repeat;
 }
 h2.title span {
   color: #c39c00;
@@ -406,7 +406,7 @@ h2.title span {
 .separator {
   width: 62px;
   height: 5px;
-  background: url(../img/separator_red.png) center no-repeat;
+  background: url(../img/separator_red.webp) center no-repeat;
 }
 section .image {
   display: block;
@@ -429,7 +429,7 @@ section .image {
   content: "";
   width: 140%;
   height: 100%;
-  background: url(../img/animate_bg.png) no-repeat;
+  background: url(../img/animate_bg.webp) no-repeat;
   -webkit-background-size: contain;
   -moz-background-size: contain;
   -o-background-size: contain;
@@ -450,7 +450,7 @@ section .image {
 .offer_section .info_block {
   position: relative;
   min-height: 524px;
-  background-image: url(../img/mainbg.png);
+  background-image: url(../img/mainbg.webp);
   -webkit-background-size: cover;
   background-size: cover;
   position: relative;
@@ -462,7 +462,7 @@ section .image {
   transform: translateX(-50%);
   width: 100%;
   min-height: 524px;
-  background-image: url(../img/old.png);
+  background-image: url(../img/old.webp);
   -webkit-background-size: auto 100%;
   background-size: auto 100%;
   background-repeat: no-repeat;
@@ -523,7 +523,7 @@ section .image {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url(../img/young-face.jpg) no-repeat center top;
+  background: url(../img/young-face.webp) no-repeat center top;
   -webkit-background-size: auto 95%;
   background-size: auto 95%;
   -webkit-transform: scaleY(0) translateZ(0);
@@ -573,7 +573,7 @@ section .image {
   z-index: 1;
 }
 .offer_section.offer3 .info_block .discount {
-  background-image: url(../img/offer3__discount_bg.png);
+  background-image: url(../img/offer3__discount_bg.webp);
 }
 .offer_section .info_block .discount b {
   display: block;
@@ -598,7 +598,7 @@ section .image {
   right: 0;
   width: 280px;
   height: 260px;
-  background-image: url(../img/black.png);
+  background-image: url(../img/black.webp);
   -webkit-background-size: cover;
   background-size: cover;
   z-index: 1;
@@ -777,23 +777,23 @@ section .image {
   color: #777;
 }
 .offer_section .field[name="name"] {
-  background: #ebebeb url(../img/offer__name_icon.png) 22px center no-repeat;
+  background: #ebebeb url(../img/offer__name_icon.webp) 22px center no-repeat;
 }
 .offer_section .field[name="phone"] {
   margin: 0 auto 35px;
-  background: #ebebeb url(../img/offer__phone_icon.png) 20px center no-repeat;
+  background: #ebebeb url(../img/offer__phone_icon.webp) 20px center no-repeat;
 }
 .offer_section.offer3 .field {
   border: 1px solid #dedede;
 }
 .field[name="name"],
 .offer_section.offer3 .field[name="name"] {
-  background: #f0f0f0 url(../img/offer__name_icon.png) 22px center no-repeat;
+  background: #f0f0f0 url(../img/offer__name_icon.webp) 22px center no-repeat;
 }
 .field[name="phone"],
 .offer_section.offer3 .field[name="phone"] {
   margin: 0 auto 35px;
-  background: #f0f0f0 url(../img/offer__phone_icon.png) 20px center no-repeat;
+  background: #f0f0f0 url(../img/offer__phone_icon.webp) 20px center no-repeat;
 }
 .field::-webkit-input-placeholder,
 .offer_section .field::-webkit-input-placeholder {
@@ -1025,7 +1025,7 @@ label {
 }
 .opinion2_section .author_block .info {
   padding: 5px 0 0;
-  background: url(../img/quote1_icon.png) right center no-repeat;
+  background: url(../img/quote1_icon.webp) right center no-repeat;
 }
 .opinion2_section .author_block h4 {
   font-size: 16px;
@@ -1054,7 +1054,7 @@ label {
 }
 .reviews2_section .author_block {
   padding: 0 50px 0 0;
-  background: url(../img/quote1_icon.png) right center no-repeat;
+  background: url(../img/quote1_icon.webp) right center no-repeat;
 }
 .reviews2_section .author_block .name {
   font-weight: 700;
@@ -1065,7 +1065,7 @@ label {
 .reviews2_section .owl-prev {
   width: 40px;
   height: 36px;
-  background: url(../img/reviews2__arrows.png) no-repeat;
+  background: url(../img/reviews2__arrows.webp) no-repeat;
   position: absolute;
   top: 135px;
 }
